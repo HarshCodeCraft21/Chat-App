@@ -30,4 +30,4 @@ Built with modern technologies, it delivers a seamless chatting experience with 
 1. Clone the repository:  
 
    ```bash  
-   git clone https://github.com/yourusername/chatapp.git  
+   git clone https://github.com/HarshCodeCraft21/Chat-App.git  
